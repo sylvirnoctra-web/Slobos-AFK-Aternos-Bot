@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SLOTH",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Sylvir.aternos.me",
