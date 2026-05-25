@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "vir robot",
+    "username": "Syl",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Sylvir.aternos.me:61844",
+    "ip": "Sylvir.aternos.me",
     "port": 61844,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Syl!",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
