@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "vir robot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "Sylvir.aternos.me:61844",
+    "ip": "Sylvir.aternos.me",
     "port": 61844,
     "version": "26.1.2",
     "try-creative": true
