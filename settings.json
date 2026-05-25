@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Sylvir.aternos.me",
+    "ip": "Sylvir.aternos.me:61844",
     "port": 61844,
     "version": "26.1.2",
     "try-creative": false
